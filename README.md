@@ -77,7 +77,7 @@ A Flutter-based coffee shop application focused on product discovery, user inter
 
 **Technologies:** Flutter, Dart
 
-### 2. Labkhand (لبخند)
+### 2. Labkhand
 A Persian RTL fast-food ordering web application.
 
 **Technologies:** Web Development, Frontend, Backend/API Integration
@@ -85,17 +85,14 @@ A Persian RTL fast-food ordering web application.
 ### 3. Dompet Flutter
 A Flutter application project.
 
-**Repository:** https://github.com/DompetApp/Dompet.flutter
 
 ### 4. Travel News App
 A Flutter-based travel news application project.
 
-**Repository:** https://github.com/ivansaul/flutter_travel_news_app
 
 ### 5. Weather App
 A Flutter-based weather application project.
 
-**Repository:** https://github.com/ivansaul/flutter_weather_app
 
 ## 🧩 Development Experience
 
